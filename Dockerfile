@@ -1,5 +1,5 @@
 # Image de base
-FROM ubuntu:16.04
+FROM ubuntu:14.04
 
 #Installation d'apache
 RUN apt-get update --fix-missing
